@@ -8,7 +8,7 @@ This is a simple web application created with Laravel and Vue.js that allows use
 - Telegram-upload (https://github.com/Nekmo/telegram-upload)
 - Laravel Queue
 - Tailwind CSS
-- Filepond (https://github.com/pqina/filepond, https://github.com/pqina/vue-filepond)
+- FilePond (https://github.com/pqina/filepond, https://github.com/pqina/vue-filepond)
 
 ## Instructions
 ### To install the application
